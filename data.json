@@ -1,0 +1,47 @@
+{  
+    "ques" : [  
+        "Q1.Which country has the highest life expectancy?",  
+        "Q2. Nuclear sizes are expressed in a unit named?",  
+        "Q3. The ratio of width of our National flag to its length is?",  
+        "Q4. How many elements are in the periodic table?",  
+        "Q5. Which planet in the Milky Way is the hottest?"  
+    ],  
+    "ans" : [  
+        2,  
+        3,  
+        1,  
+        4,  
+        2  
+    ],  
+    "choices" : [  
+        [  
+        "China",  
+        "HongKong",  
+        "Japan",  
+        "USA"  
+        ],  
+        [  
+        "Newton",
+        "Tesla",
+        "Fermi",
+        "Amgstrom"
+        ],  
+        [  
+        "2:3",
+        "3:2",
+        "2:4",
+        "3:4"
+        ],  
+        [  
+        "119",
+        "120",
+        "117",
+        "118" 
+        ],  
+        [  
+        "Mars",  
+        "Venus",  
+        "Earth",  
+        "None of the above"  ]
+    ]
+}
